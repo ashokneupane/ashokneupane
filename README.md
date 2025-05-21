@@ -39,9 +39,9 @@ I'm a passionate web developer with expertise in Laravel, React, and WordPress. 
 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Ashok's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashokneupane&show_icons=true&theme=radical" alt="Ashok's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashokneupane&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
